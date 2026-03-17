@@ -36,13 +36,13 @@
 
 ## 📬 Connect With Me
 
-<a href="mailto:jagdishdesai@gmail.com">
+<a href="mailto:jdesai7178@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
 </a>
-<a href="https://www.linkedin.com/in/jagdish-desai/">
+<a href="www.linkedin.com/in/jagdish-desai-792948289/">
   <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
 </a>
-<a href="https://github.com/jagdishdesai">
+<a href="https://github.com/jagdishdesaii">
   <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=61DAFB"/>
 </a>
 <a href="https://jagdishdesai.github.io/">
