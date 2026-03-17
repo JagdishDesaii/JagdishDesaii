@@ -39,7 +39,7 @@
 <a href="mailto:jdesai7178@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
 </a>
-<a href="www.linkedin.com/in/jagdish-desai-792948289/">
+<a href="www.linkedin.com/in/jagdish-desai-792948289">
   <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
 </a>
 <a href="https://github.com/jagdishdesaii">
