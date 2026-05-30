@@ -39,9 +39,9 @@
   <a href="https://github.com/jagdishdesaii">
     <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=61DAFB"/>
   </a>
-  <a href="[https://main.d3jp50uer6jtui.amplifyapp.com](https://portfolio-j-alpha.vercel.app/)">
-    <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=61DAFB"/>
-  </a>
+<a href="https://portfolio-j-alpha.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="Portfolio"/>
+</a>
 </p>
 
 ---
