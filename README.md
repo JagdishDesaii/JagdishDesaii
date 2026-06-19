@@ -1,129 +1,195 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&text=Jagdish%20Desai&fontSize=45&fontColor=61DAFB&fontAlignY=40&animation=twinkling&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d2137,100:0a3d62&height=200&text=Jagdish%20Desai&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descFontColor=a0c4d8&descAlignY=65&animation=twinkling&section=header" width="100%"/>
 </div>
 
-<h3 align="center">☁️ Cloud & DevOps Engineer | Fresher</h3>
-
-<p align="center">
-  <i>Designing scalable AWS infrastructure & automating cloud operations.</i>
-</p>
-
----
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ☁️  Architecting resilient infrastructure · Automating the     ║
+║      future · Turning complexity into clean, scalable systems   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
----
+<br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-🎓 B.Tech<br/>
-☁️ Cloud & DevOps Engineer (Fresher)<br/>
-🚀 Hands-on experience with <b>real-world AWS architectures</b><br/>
-🛠 Focused on <b>automation, scalability, security & cost optimization</b>
-</p>
-
----
-
-<h2 align="center">📬 Connect With Me</h2>
-
-<p align="center">
+<div align="center">
   <a href="mailto:jdesai7178@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Gmail-jdesai7178-0a3d62?style=flat-square&logo=gmail&logoColor=00d4ff&labelColor=0a0e1a"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/jagdish-desai-792948289">
-    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Jagdish%20Desai-0a3d62?style=flat-square&logo=linkedin&logoColor=00d4ff&labelColor=0a0e1a"/>
   </a>
+  &nbsp;
   <a href="https://github.com/jagdishdesaii">
-    <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/GitHub-jagdishdesaii-0a3d62?style=flat-square&logo=github&logoColor=00d4ff&labelColor=0a0e1a"/>
   </a>
-<a href="https://portfolio-j-alpha.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="Portfolio"/>
-</a>
-</p>
+  &nbsp;
+  <a href="https://portfolio-j-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0a3d62?style=flat-square&logo=vercel&logoColor=00d4ff&labelColor=0a0e1a"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Pimpri%2C%20Maharashtra-0a3d62?style=flat-square&logo=googlemaps&logoColor=00d4ff&labelColor=0a0e1a"/>
+</div>
+
+<br/>
 
 ---
 
-<h2 align="center">☁️ Cloud & DevOps Skills</h2>
+## `whoami`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,terraform,nginx,git,github&theme=dark"/>
-</p>
+```yaml
+name        : Jagdish Desai
+role        : Cloud & DevOps Engineer (Fresher)
+education   : B.Tech — Computer Science & Engineering, Shivaji University (CGPA: 7.39)
+              Diploma — CSE, MSBTE Maharashtra (CGPA: 9.5)
+location    : Pimpri, Maharashtra, India
+phone       : +91 9764061066
+focus       : AWS Infrastructure · CI/CD Automation · Security · Cost Optimization
+status      : Open to opportunities 🟢
+```
 
----
-
-<h2 align="center">⚙️ Tools & Platforms</h2>
-
-<p align="center">
-✔ AWS (EC2, S3, IAM, VPC, RDS, EFS, CloudWatch, Route 53)<br/>
-✔ Docker & Containerization<br/>
-✔ Kubernetes<br/>
-✔ Jenkins (CI/CD Pipelines)<br/>
-✔ Terraform (Infrastructure as Code)<br/>
-✔ Linux Administration<br/>
-✔ Git & GitHub<br/>
-✔ NGINX / Apache
-</p>
+> *Entry-level Cloud & DevOps Engineer with hands-on experience designing and deploying scalable, secure, and cost-effective AWS infrastructure. Passionate about automation, cloud security, and continuous learning.*
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+## ☁️ Cloud & DevOps Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,terraform,ansible,git,github,python&theme=dark&perline=5"/>
+</div>
+
+<br/>
 
 <table align="center">
 <tr>
-<th>Domain</th>
-<th>Skills / Tools</th>
-<th>Projects</th>
-</tr>
-<tr>
-<td><b>3-Tier Application Architecture</b></td>
-<td>AWS EC2, AWS RDS, AWS VPC,<br/>Load Balancer, Auto Scaling</td>
-<td><a href="https://github.com/jagdishdesaii/Application-Deployment-On-AWS">3-Tier Application Deployment</a></td>
-</tr>
-<tr>
-<td><b>AWS S3 Static Website Hosting</b></td>
-<td>AWS S3, Static Website Hosting,<br/>Bucket Policy, IAM, Route 53</td>
-<td><a href="https://github.com/jagdishdesaii/Static-Website-Hosting-on-Amazon-S3">AWS S3 Static Website Hosting</a></td>
-</tr>
-<tr>
-<td><b>AWS S3 Cross Account Replication</b></td>
-<td>AWS S3, IAM Roles & Policies,<br/>Replication Rules, Versioning</td>
-<td><a href="https://github.com/jagdishdesaii/AWS-S3-Replication-Project">AWS S3 Cross Account Replication</a></td>
-</tr>
-<tr>
-<td><b>AWS EFS Shared File System</b></td>
-<td>AWS EFS, EC2, NFS,<br/>Security Groups</td>
-<td><a href="https://github.com/jagdishdesaii/EFS">AWS EFS Shared Files Setup</a></td>
-</tr>
-<tr>
-<td><b>AWS Website Deployment</b></td>
-<td>AWS EC2, Apache / NGINX,<br/>IAM, Security Groups</td>
-<td><a href="https://github.com/jagdishdesaii/Website-Hosting">AWS Website Deployment</a></td>
-</tr>
-<tr>
-<td><b>EC2 Cost Optimization Using Lambda</b></td>
-<td>IAM, EC2, AWS Lambda,<br/>Amazon EventBridge</td>
-<td><a href="https://github.com/jagdishdesaii/EC2-Cost-Optimization-Using-Lambda">EC2 Cost Optimization Using Lambda</a></td>
-</tr>
-<tr>
-<td><b>AWS EC2 Backup & Recovery</b></td>
-<td>IAM, EC2, Amazon Backup, EBS</td>
-<td><a href="https://github.com/jagdishdesaii/AWS-Ec2-Backup-Recovery">AWS EC2 Backup & Recovery</a></td>
+<td align="center" width="200">
+
+**☁️ Cloud**
+
+`EC2` `S3` `IAM` `VPC`  
+`RDS` `ELB` `Lambda`  
+`SNS` `SQS` `CloudWatch`  
+`Route 53` `EFS` `ECR/ECS`
+
+</td>
+<td align="center" width="200">
+
+**⚙️ DevOps**
+
+`Git` `GitHub` `Jenkins`  
+`Docker` `Kubernetes`  
+`Terraform` `Ansible`  
+`AWS CLI` `NGINX` `Apache`
+
+</td>
+<td align="center" width="200">
+
+**💻 Systems & Code**
+
+`Linux (Ubuntu)` `Windows`  
+`Python` `Shell Scripting`  
+`TCP/IP` `DNS`  
+`Networking Fundamentals`
+
+</td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">☁️ Cloud & DevOps Quote</h2>
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automation%20is%20the%20key%20to%20scalability.&author=Gene%20Kim%20(DevOps%20Thought%20Leader)" alt="Cloud DevOps Quote"/>
-</p>
+### 🔷 Three-Tier Application Architecture on AWS
+> `EC2` · `VPC` · `RDS` · `ELB` · `IAM` · `CloudWatch` · `Auto Scaling` · `Linux`
+
+A production-grade, highly available three-tier architecture built on AWS following industry best practices.
+
+- 🏗️ Designed VPC with **public/private subnet segmentation** for strict network isolation across all tiers
+- 🖥️ Deployed **EC2 instances** for the app tier + **Amazon RDS** for a managed, scalable database layer
+- 🔒 Enforced **least-privilege access** via IAM roles, Security Groups, and Network ACLs
+- ⚖️ Configured **Elastic Load Balancer** for traffic distribution and high availability
+- 📊 Set up **CloudWatch dashboards & alarms** for real-time monitoring and alerting
+
+<a href="https://github.com/jagdishdesaii/Application-Deployment-On-AWS">
+  <img src="https://img.shields.io/badge/View%20Project-0a3d62?style=for-the-badge&logo=github&logoColor=00d4ff"/>
+</a>
+
+---
+
+### 🔷 EC2 Cost Optimization Using Lambda
+> `AWS Lambda` · `IAM` · `EC2` · `Amazon EventBridge`
+
+Automated cost governance by scheduling Lambda-driven start/stop of idle EC2 instances via EventBridge triggers — cutting unnecessary compute spend.
+
+<a href="https://github.com/jagdishdesaii/EC2-Cost-Optimization-Using-Lambda">
+  <img src="https://img.shields.io/badge/View%20Project-0a3d62?style=for-the-badge&logo=github&logoColor=00d4ff"/>
+</a>
+
+---
+
+### 🔷 AWS S3 Cross-Account Replication
+> `S3` · `IAM Roles & Policies` · `Replication Rules` · `Versioning`
+
+Implemented secure cross-account S3 replication for disaster recovery and data redundancy across AWS accounts.
+
+<a href="https://github.com/jagdishdesaii/AWS-S3-Replication-Project">
+  <img src="https://img.shields.io/badge/View%20Project-0a3d62?style=for-the-badge&logo=github&logoColor=00d4ff"/>
+</a>
+
+---
+
+### 🔷 More Projects
+
+| Project | Tools | Link |
+|---|---|---|
+| AWS S3 Static Website Hosting | `S3` `Route 53` `IAM` `Bucket Policy` | [→ GitHub](https://github.com/jagdishdesaii/Static-Website-Hosting-on-Amazon-S3) |
+| AWS EFS Shared File System | `EFS` `EC2` `NFS` `Security Groups` | [→ GitHub](https://github.com/jagdishdesaii/EFS) |
+| AWS Website Deployment | `EC2` `NGINX/Apache` `IAM` `Security Groups` | [→ GitHub](https://github.com/jagdishdesaii/Website-Hosting) |
+| AWS EC2 Backup & Recovery | `EC2` `Amazon Backup` `EBS` `IAM` | [→ GitHub](https://github.com/jagdishdesaii/AWS-Ec2-Backup-Recovery) |
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Certification | Issuer |
+|---|---|
+| AWS Container Services — ECS, ECR with Fargate & EC2 | ![Udemy](https://img.shields.io/badge/Udemy-0a0e1a?style=flat-square&logo=udemy&logoColor=00d4ff) |
+| HTML5, Python & Flask Framework — All In One Complete Course | ![Udemy](https://img.shields.io/badge/Udemy-0a0e1a?style=flat-square&logo=udemy&logoColor=00d4ff) |
+| Data Analytics and Visualization Job Simulation | ![Forage](https://img.shields.io/badge/Forage-0a0e1a?style=flat-square&logoColor=00d4ff) |
+| AWS Skill Builder Certifications | ![AWS](https://img.shields.io/badge/AWS-0a0e1a?style=flat-square&logo=amazonaws&logoColor=00d4ff) |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagdishdesaii&show_icons=true&theme=tokyonight&bg_color=0a0e1a&border_color=0a3d62&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4d8" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishdesaii&layout=compact&theme=tokyonight&bg_color=0a0e1a&border_color=0a3d62&title_color=00d4ff&text_color=a0c4d8" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdishdesaii&theme=tokyonight&background=0a0e1a&border=0a3d62&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a0c4d8&dates=a0c4d8" width="50%"/>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20For%20Visiting&fontSize=22&fontColor=61DAFB&animation=twinkling" width="100%"/>
+
+*"Automation is the key to scalability."* — **Gene Kim**
+
+<br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0a0e1a&height=130&section=footer&text=Thanks%20For%20Visiting!&fontSize=24&fontColor=00d4ff&animation=twinkling" width="100%"/>
+
 </div>
